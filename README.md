@@ -1,5 +1,5 @@
-# WWDC2015
-This is my WWDC scholarship submission for WWDC 2015, it was my first experience using Swift and turned out pretty well considering this was made during finals.
+#WWDC2015
+This is my WWDC scholarship submission for WWDC 2015 that I was awarded a scholarship for. I'm pretty happy with how it turned out considering this was my first time using swift and built it in between my final exams.
 
 The app mainly comprises of scroll views that have 3D transforms applied to them and their subviews to get some nice effects.
 
